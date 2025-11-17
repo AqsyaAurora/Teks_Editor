@@ -2,6 +2,7 @@
 
 ini adalah program untuk membuat simulasi Teks 
 editor. yang didalamnya kita bisa melakukan:
+
 Masukkan write Hello: Teks menjadi "Hello" (undoStack: [""]).
 Masukkan write World: Teks menjadi "HelloWorld" (undoStack: ["", "Hello"]).
 Masukkan show: Output: "Teks saat ini: 'HelloWorld'".
